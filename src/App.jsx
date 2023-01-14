@@ -9,7 +9,7 @@ const iconClassName = "p-3 bg-gray-600 mr-4 rounded-full inline";
 function App() {
     return (
         <div className="flex flex-col items-center h-full">
-            <h1 className="text-5xl font-bold mb-5">Radio Broadcast</h1>
+            <h1 className="text-3xl font-bold mb-5 white">Diffusion</h1>
             <div className="space-y-3 flex flex-col items-center w-max">
                 <Link to="/host" className="w-full">
                     <button type="button" className={buttonClassName}>
