@@ -16,7 +16,7 @@ function App() {
                         <div className={iconClassName}>
                             <Mic size={32} />
                         </div>
-                        Become the host
+                        Mode hote
                     </button>
                 </Link>
                 <Link to="/listen" className="w-full">
@@ -24,7 +24,7 @@ function App() {
                         <div className={iconClassName}>
                             <Volume2 size={32} />
                         </div>
-                        Tune in
+                        Mode spectateur
                     </button>
                 </Link>
             </div>
