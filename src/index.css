@@ -29,6 +29,7 @@ body {
     background-image: url("lameuteRadio.png");
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
 }
 
 @media (prefers-color-scheme: light) {
